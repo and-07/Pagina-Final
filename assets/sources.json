@@ -1,0 +1,137 @@
+{
+  "description": "Local visual assets for a personal, unofficial Dragon Ball fan page. Character rights belong to their respective owners. Repository listings do not grant independent rights to the underlying characters.",
+  "images": [
+    {
+      "path": "assets/images/goku-base.webp",
+      "form": "Goku base",
+      "sourcePage": "https://dragonball-api.com/api/characters/1",
+      "downloadUrl": "https://dragonball-api.com/characters/goku_normal.webp"
+    },
+    {
+      "path": "assets/images/goku-ssj.webp",
+      "form": "Super Saiyan",
+      "sourcePage": "https://dragonball-api.com/api/characters/1",
+      "downloadUrl": "https://dragonball-api.com/transformaciones/goku_ssj.webp"
+    },
+    {
+      "path": "assets/images/goku-ssj2.webp",
+      "form": "Super Saiyan 2",
+      "sourcePage": "https://dragonball-api.com/api/characters/1",
+      "downloadUrl": "https://dragonball-api.com/transformaciones/goku_ssj2.webp"
+    },
+    {
+      "path": "assets/images/goku-ssj3.webp",
+      "form": "Super Saiyan 3",
+      "sourcePage": "https://dragonball-api.com/api/characters/1",
+      "downloadUrl": "https://dragonball-api.com/transformaciones/goku_ssj3.webp"
+    },
+    {
+      "path": "assets/images/goku-ssj4.png",
+      "form": "Super Saiyan 4, Dragon Ball GT",
+      "sourcePage": "https://www.pikpng.com/transpng/ioRiwow/",
+      "downloadUrl": "https://www.pikpng.com/pngl/b/328-3282354_super-saiyan-4-goku-character-hd-version-goku.png",
+      "width": 519,
+      "height": 909,
+      "repositoryLicense": "Personal Use",
+      "note": "Transparent original, visually inspected. Replaces the API WEBP, which has a rectangular dark background and artist watermark."
+    },
+    {
+      "path": "assets/images/goku-blue.webp",
+      "form": "Super Saiyan Blue",
+      "sourcePage": "https://dragonball-api.com/api/characters/1",
+      "downloadUrl": "https://dragonball-api.com/transformaciones/goku_ssjb.webp"
+    },
+    {
+      "path": "assets/images/goku-ultra.webp",
+      "form": "Ultra Instinct Sign, black hair",
+      "sourcePage": "https://dragonball-api.com/api/characters/1",
+      "downloadUrl": "https://dragonball-api.com/transformaciones/goku_ultra.webp",
+      "note": "The API name is generic; visual inspection identifies this as Sign rather than the silver-haired state."
+    },
+    {
+      "path": "assets/images/goku-ultra-master.png",
+      "form": "Ultra Instinct, silver hair",
+      "sourcePage": "https://www.pngaaa.com/detail/4763374",
+      "downloadUrl": "https://image.pngaaa.com/374/4763374.png",
+      "width": 1514,
+      "height": 4189,
+      "repositoryLicense": "Non-commercial Use",
+      "note": "Original PNG has real alpha transparency; medium preview includes an embedded checkerboard and is not used."
+    },
+    {
+      "path": "assets/images/goku-god.png",
+      "form": "Super Saiyan God",
+      "sourcePage": "https://www.pngall.com/goku-manga-png/",
+      "downloadUrl": "https://www.pngall.com/wp-content/uploads/15/Goku-Manga-PNG-Image-File.png",
+      "width": 390,
+      "height": 1243,
+      "note": "Visually checked: red hair, classic uniform, no tail, real alpha transparency."
+    },
+    {
+      "path": "assets/images/goku-oozaru.png",
+      "form": "Great Ape / Ozaru, unarmored",
+      "sourcePage": "https://www.pikpng.com/pngvi/hiRiobR_ape-png-dbz-oozaru-clipart/",
+      "downloadUrl": "https://www.pikpng.com/pngl/b/452-4529115_ape-png-dbz-oozaru-clipart.png",
+      "width": 1000,
+      "height": 979,
+      "repositoryLicense": "Personal Use"
+    },
+    {
+      "path": "assets/images/goku-ssj4-daima.png",
+      "form": "Super Saiyan 4, adult Goku, Dragon Ball DAIMA",
+      "sourcePage": "https://dbz-dokkanbattle.com/card/1032530",
+      "downloadUrl": "https://dbz-dokkanbattle.com/img/character/card/1032530/card_1032530_character.png",
+      "width": 426,
+      "height": 568,
+      "note": "Dokkan Battle character illustration. Visually inspected: red hair, red fur and tail, blue boots; real alpha transparency."
+    },
+    {
+      "path": "assets/images/goku-ssj3-mini.png",
+      "form": "Super Saiyan 3, Goku Mini, Dragon Ball DAIMA",
+      "sourcePage": "https://dbz-dokkanbattle.com/card/1034300",
+      "downloadUrl": "https://dbz-dokkanbattle.com/img/character/card/1034300/card_1034300_character.png",
+      "width": 426,
+      "height": 568,
+      "note": "Dokkan Battle character illustration. Visually inspected: Mini proportions, long golden hair, no eyebrows; real alpha transparency."
+    }
+  ],
+  "fonts": {
+    "license": "SIL Open Font License 1.1",
+    "files": [
+      {
+        "path": "assets/fonts/barlow-400.ttf",
+        "family": "Barlow",
+        "weight": 400,
+        "source": "https://github.com/google/fonts/blob/main/ofl/barlow/Barlow-Regular.ttf"
+      },
+      {
+        "path": "assets/fonts/barlow-500.ttf",
+        "family": "Barlow",
+        "weight": 500,
+        "source": "https://github.com/google/fonts/blob/main/ofl/barlow/Barlow-Medium.ttf"
+      },
+      {
+        "path": "assets/fonts/barlow-600.ttf",
+        "family": "Barlow",
+        "weight": 600,
+        "source": "https://github.com/google/fonts/blob/main/ofl/barlow/Barlow-SemiBold.ttf"
+      },
+      {
+        "path": "assets/fonts/barlow-condensed-800.ttf",
+        "family": "Barlow Condensed",
+        "weight": 800,
+        "source": "https://github.com/google/fonts/blob/main/ofl/barlowcondensed/BarlowCondensed-ExtraBold.ttf"
+      },
+      {
+        "path": "assets/fonts/barlow-condensed-900.ttf",
+        "family": "Barlow Condensed",
+        "weight": 900,
+        "source": "https://github.com/google/fonts/blob/main/ofl/barlowcondensed/BarlowCondensed-Black.ttf"
+      }
+    ],
+    "licenseFiles": [
+      "assets/fonts/OFL-Barlow.txt",
+      "assets/fonts/OFL-BarlowCondensed.txt"
+    ]
+  }
+}
